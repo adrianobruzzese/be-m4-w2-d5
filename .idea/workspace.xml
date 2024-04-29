@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02788abe-3a63-4c4a-861f-8587f123a805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/epicode/Archive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Literature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Periodical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/PrintedMaterial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/PublicationFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epicode/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epicode/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/epicode/Archive.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
